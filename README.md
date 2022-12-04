@@ -1,5 +1,5 @@
 # Simulator_World_Cup
-Implementation on "A Mathematician's Guide to the World Cup".
+A proposed implementation of the "A Mathematician's Guide to the World Cup".
 Bibliography : \
 ** Overall Methodology : https://youtu.be/KjISuZ5o06Q \
 ** Scrapping the data from Elo ratings : https://www.youtube.com/watch?v=qxj7EXYeNls \
